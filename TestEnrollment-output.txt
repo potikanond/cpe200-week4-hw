@@ -1,0 +1,142 @@
+
+******** All students ********
+S1 (580611701) was born in 1991 is an ACTIVE student.
+S2 (580611702) was born in 1992 is an ACTIVE student.
+S3 (580611703) was born in 1993 is an ACTIVE student.
+S4 (580611704) was born in 1994 is an ACTIVE student.
+S5 (580611705) was born in 1995 is an ACTIVE student.
+S6 (580611706) was born in 1996 is an ACTIVE student.
+S7 (580611707) was born in 1997 is an ACTIVE student.
+S8 (580611708) was born in 1998 is an ACTIVE student.
+
+******** Available courses ********
+Computer Programming (261102), Teacher: Santi, has NO student, [maximum: 3]
+Object Oriented Programming (261200), Teacher: Dome, has NO student, [maximum: 3]
+Programming for ISNE (269103), Teacher: Patiwet, has NO student, [maximum: 10]
+Web Programming (269200), Teacher: Kenneth, has NO student, [maximum: 10]
+Algorithm for ISNE (269202), Teacher: Kenneth, has NO student, [maximum: 10]
+
+******** Start batch enrollment: ADD transactions ********
+580611701 has enrolled in 261102 successfully.
+580611701 has already enrolled in 261102.
+580611701 has enrolled in 261200 successfully.
+580611701 has enrolled in 269103 successfully.
+580611701 has enrolled in 269200 successfully.
+580611702 has enrolled in 261102 successfully.
+580611702 has enrolled in 261200 successfully.
+580611702 has enrolled in 269103 successfully.
+580611702 has enrolled in 269202 successfully.
+580611703 has enrolled in 261102 successfully.
+580611703 has enrolled in 269103 successfully.
+580611703 has enrolled in 269200 successfully.
+580611703 has enrolled in 269202 successfully.
+580611704 cannot enroll in this course, 261102 is full.
+580611704 has enrolled in 269202 successfully.
+580611705 has enrolled in 269202 successfully.
+580611705 has enrolled in 269200 successfully.
+580611706 has enrolled in 269202 successfully.
+580611707 has enrolled in 269202 successfully.
+580611708 has enrolled in 269202 successfully.
+
+******** After ADD transactions ********
+S1 (580611701) was born in 1991 is an ACTIVE student.
+	261102 - Computer Programming
+	261200 - Object Oriented Programming
+	269103 - Programming for ISNE
+	269200 - Web Programming
+S2 (580611702) was born in 1992 is an ACTIVE student.
+	261102 - Computer Programming
+	261200 - Object Oriented Programming
+	269103 - Programming for ISNE
+	269202 - Algorithm for ISNE
+S3 (580611703) was born in 1993 is an ACTIVE student.
+	261102 - Computer Programming
+	269103 - Programming for ISNE
+	269200 - Web Programming
+	269202 - Algorithm for ISNE
+S4 (580611704) was born in 1994 is an ACTIVE student.
+	269202 - Algorithm for ISNE
+S5 (580611705) was born in 1995 is an ACTIVE student.
+	269202 - Algorithm for ISNE
+	269200 - Web Programming
+S6 (580611706) was born in 1996 is an ACTIVE student.
+	269202 - Algorithm for ISNE
+S7 (580611707) was born in 1997 is an ACTIVE student.
+	269202 - Algorithm for ISNE
+S8 (580611708) was born in 1998 is an ACTIVE student.
+	269202 - Algorithm for ISNE
+
+Computer Programming (261102), Teacher: Santi, has 3 students, [maximum: 3]
+	580611701 - S1
+	580611702 - S2
+	580611703 - S3
+Object Oriented Programming (261200), Teacher: Dome, has 2 students, [maximum: 3]
+	580611701 - S1
+	580611702 - S2
+Programming for ISNE (269103), Teacher: Patiwet, has 3 students, [maximum: 10]
+	580611701 - S1
+	580611702 - S2
+	580611703 - S3
+Web Programming (269200), Teacher: Kenneth, has 3 students, [maximum: 10]
+	580611701 - S1
+	580611703 - S3
+	580611705 - S5
+Algorithm for ISNE (269202), Teacher: Kenneth, has 7 students, [maximum: 10]
+	580611702 - S2
+	580611703 - S3
+	580611704 - S4
+	580611705 - S5
+	580611706 - S6
+	580611707 - S7
+	580611708 - S8
+
+******** Start batch enrollment: DROP transactions ********
+580611701 has been removed from 261102 successfully.
+580611701 has been removed from 269200 successfully.
+580611702 has been removed from 269103 successfully.
+580611703 is NOT enrolled in 261200.
+580611703 has been removed from 261102 successfully.
+580611708 has been removed from 269202 successfully.
+580611708 is NOT enrolled in 261200.
+
+******** After DROP transactions ********
+S1 (580611701) was born in 1991 is an ACTIVE student.
+	261200 - Object Oriented Programming
+	269103 - Programming for ISNE
+S2 (580611702) was born in 1992 is an ACTIVE student.
+	261102 - Computer Programming
+	261200 - Object Oriented Programming
+	269202 - Algorithm for ISNE
+S3 (580611703) was born in 1993 is an ACTIVE student.
+	269103 - Programming for ISNE
+	269200 - Web Programming
+	269202 - Algorithm for ISNE
+S4 (580611704) was born in 1994 is an ACTIVE student.
+	269202 - Algorithm for ISNE
+S5 (580611705) was born in 1995 is an ACTIVE student.
+	269202 - Algorithm for ISNE
+	269200 - Web Programming
+S6 (580611706) was born in 1996 is an ACTIVE student.
+	269202 - Algorithm for ISNE
+S7 (580611707) was born in 1997 is an ACTIVE student.
+	269202 - Algorithm for ISNE
+S8 (580611708) was born in 1998 is an ACTIVE student.
+
+Computer Programming (261102), Teacher: Santi, has ONE student, [maximum: 3]
+	580611702 - S2
+Object Oriented Programming (261200), Teacher: Dome, has 2 students, [maximum: 3]
+	580611701 - S1
+	580611702 - S2
+Programming for ISNE (269103), Teacher: Patiwet, has 2 students, [maximum: 10]
+	580611701 - S1
+	580611703 - S3
+Web Programming (269200), Teacher: Kenneth, has 2 students, [maximum: 10]
+	580611703 - S3
+	580611705 - S5
+Algorithm for ISNE (269202), Teacher: Kenneth, has 6 students, [maximum: 10]
+	580611702 - S2
+	580611703 - S3
+	580611704 - S4
+	580611705 - S5
+	580611706 - S6
+	580611707 - S7
