@@ -55,6 +55,6 @@ Methods:
     * Also printing "student id" and "student name" of all students who are studying this course.
 
 To complete the homework you need to meet following requirements:
-* Pass all test cases: PListTest.java, StudentTest.java, CourseTest.java
+* Pass all unit tests: PListTest.java, StudentTest.java, CourseTest.java
 * Output from the "TestEnrollment.java" program should be the same as or very similar to the output stored in the "TestEnrollment-output.txt".
 * Draw a class diagram showing the relationship among the classes: PNode, PList, Student, and Course
